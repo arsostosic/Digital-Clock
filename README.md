@@ -1,2 +1,2 @@
-# studious-waddle
+# Digital-Clock
 Simple digital clock in python
